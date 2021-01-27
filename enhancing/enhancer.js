@@ -7,8 +7,8 @@ module.exports = {
 
 // {
 //   name: "item_name",
-//   durability: 0-20,
-//   enhancement: 0-100
+//   enhancement: 0-20,
+//   durability: 0-100
 // }
 
 function success(item) {
